@@ -29,7 +29,7 @@ A Python command-line network packet analyzer developed using Scapy. This tool c
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/dr-hackersmm006/PacketAnalyzer.git
 cd Scapy-Packet-Analyzer
 ```
 
