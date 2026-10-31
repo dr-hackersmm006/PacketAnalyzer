@@ -17,28 +17,9 @@ A Python command-line network packet analyzer developed using Scapy. This tool c
 - Save filtered packets as PCAP files.
 - Analyze saved PCAP files using Wireshark.
 
-## Project Structure
-
-```text
-Scapy-Packet-Analyzer/
-│
-├── analyzer.py
-├── requirements.txt
-├── README.md
-│
-├── screenshots/
-│   ├── all_packets.png
-│   └── filtered_packets.png
-│
-└── captures/
-    ├── all_packets.pcap
-    └── filtered_packets.pcap
-```
-
 ## Requirements
 
-- Kali Linux
-- Python 3
+- Python 
 - Scapy
 - libpcap
 - Wireshark (recommended for PCAP analysis)
@@ -214,3 +195,28 @@ GitHub: https://github.com/dr-hackersmm006
 ---
 
 **Disclaimer:** This project is developed for educational purposes and authorized network analysis only. The author is not responsible for unauthorized use of this tool.
+
+
+<img width="1917" height="1020" alt="Screenshot 2026-11-01 025015" src="https://github.com/user-attachments/assets/811dfa47-ba87-4587-b805-52d79428f398" />
+
+<img width="1917" height="1017" alt="Screenshot 2026-11-01 025058" src="https://github.com/user-attachments/assets/7d0a3c9d-3c76-4efb-b52a-1d701efdfeca" />
+
+<img width="1917" height="983" alt="Screenshot 2026-11-01 025112" src="https://github.com/user-attachments/assets/ee6460fc-1dd3-4b83-9766-5ab91e174ed3" />
+
+<img width="1917" height="1021" alt="Screenshot 2026-11-01 025210" src="https://github.com/user-attachments/assets/8155539b-2c8d-4901-acfb-c754d0c2cd6d" />
+
+<img width="1917" height="1015" alt="Screenshot 2026-11-01 030747" src="https://github.com/user-attachments/assets/9fa1e6ff-892b-4510-86ec-844e648647f6" />
+
+<img width="1897" height="845" alt="Screenshot 2026-11-01 025759" src="https://github.com/user-attachments/assets/a3509032-38ea-45b3-ad0b-6a44da18f201" />
+
+<img width="1902" height="846" alt="Screenshot 2026-11-01 025858" src="https://github.com/user-attachments/assets/61ad5f06-6fab-4ce3-89a4-60e43a26146f" />
+
+<img width="1911" height="762" alt="Screenshot 2026-11-01 025950" src="https://github.com/user-attachments/assets/702edd39-24ef-412a-a300-b92e440040a5" />
+
+<img width="1916" height="838" alt="Screenshot 2026-11-01 025929" src="https://github.com/user-attachments/assets/740dfbb1-6a9f-4fc0-8d88-a9f744664403" />
+
+<img width="1901" height="842" alt="Screenshot 2026-11-01 030039" src="https://github.com/user-attachments/assets/4bc4aec7-86b4-4300-977d-3b40d9e77b3b" />
+
+<img width="1898" height="832" alt="Screenshot 2026-11-01 030108" src="https://github.com/user-attachments/assets/b642af9c-e37b-4cb5-93d3-cdfbe32e41f6" />
+<img width="1902" height="840" alt="Screenshot 2026-11-01 030128" src="https://github.com/user-attachments/assets/50fd6b25-8af5-4bc1-9359-1762258378ca" />
+<img width="1886" height="837" alt="Screenshot 2026-11-01 030513" src="https://github.com/user-attachments/assets/ccd1df87-658d-464e-8ce5-5f72d45d3da6" />
